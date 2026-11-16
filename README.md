@@ -40,6 +40,6 @@
 ---
 
 ## Contact
-* **GitHub:** https://github.com/nhanson2003
+* **GitHub:** (https://github.com/nhanson2003/github-portfolio.git)
 * **LinkedIn:** 
 * **Email:** 
