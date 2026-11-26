@@ -17,7 +17,7 @@
 
 COSC 4272 Senior Assessment Capstone Portfolio repository. This repository hosts my GitHub Pages portfolio website, career readiness documents, and my AI-assisted software project.
 
-🌐 **Live Portfolio:** [Follow Me](https://nhanson2003.github.io/github-portfolio)
+🌐 **Live Portfolio:** [github-portfolio](https://nhanson2003.github.io/github-portfolio)
 
 ---
 
@@ -56,6 +56,6 @@ COSC 4272 Senior Assessment Capstone Portfolio repository. This repository hosts
 ---
 
 ## Contact
-* **GitHub:** https://github.com/nhanson2003
-* **LinkedIn:** 
-* **Email:**
+* **GitHub:** [My Github](https://github.com/nhanson2003)
+* **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/nwhanson)
+* **Email:** [Email Me](nicholashanson03@gmail.com)
