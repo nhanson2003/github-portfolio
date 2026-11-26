@@ -48,7 +48,7 @@ COSC 4272 Senior Assessment Capstone Portfolio repository. This repository hosts
 ---
 
 ## Technical Skills
-* **Programming:** Python, Java, C++, JavaScript
+* **Programming:** Python, Java, C++, JavaScript, Allen-Bradley RsLogix
 * **Systems & Cloud:** Linux, Docker, AWS / Azure / GCP
 * **Databases:** MySQL, PostgreSQL, MongoDB
 * **AI Tools:** GitHub Copilot, ChatGPT, Claude, Gemini
@@ -58,4 +58,4 @@ COSC 4272 Senior Assessment Capstone Portfolio repository. This repository hosts
 ## Contact
 * **GitHub:** [My Github](https://github.com/nhanson2003)
 * **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/nwhanson)
-* **Email:** [Email Me](nicholashanson03@gmail.com)
+* **Email:nicholashanson03@gmail.com**
