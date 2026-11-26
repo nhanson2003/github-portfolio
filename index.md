@@ -1,20 +1,3 @@
-<style>
-  
-  .markdown-body {
-    display: flex;
-    flex-direction: column;
-  }
-  .markdown-body > h1:first-of-type {
-    order: 2;
-    margin-top: 0;
-  }
-  .custom-profile-banner {
-    order: 1;
-  }
-  .markdown-body > *:not(h1:first-of-type):not(.custom-profile-banner) {
-    order: 3;
-  }
-</style>
 
 <div class="custom-profile-banner" style="display: flex; align-items: center; gap: 25px; background-color: #ffffff; padding: 25px; border: 1px solid #d0d7de; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.06); margin-bottom: 24px; flex-wrap: wrap;">
 
