@@ -1,3 +1,21 @@
+<div style="display: flex; align-items: center; gap: 25px; background-color: #ffffff; padding: 25px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); margin-bottom: 30px; flex-wrap: wrap;">
+  
+  <!-- Left: Circular Headshot -->
+  <img src="assets/headshot.JPG" alt="Profile Headshot" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+
+  <!-- Right: Name, Title & Education -->
+  <div style="flex: 1; min-width: 220px;">
+    <h1 style="margin: 0 0 6px 0; font-size: 28px; color: #1e293b;">Your Full Name</h1>
+    <p style="margin: 0 0 6px 0; font-size: 16px; font-weight: 600; color: #159957;">
+      Process Automation & Intelligent Systems
+    </p>
+    <p style="margin: 0; font-size: 15px; color: #475569; line-height: 1.5;">
+      B.S. Computer Science & Mathematics | B.S. Electrical Engineering
+    </p>
+  </div>
+
+</div>
+
 # Professional Portfolio & AI Software Project
 
 COSC 4272 Senior Seminar Capstone Portfolio repository. This repository hosts my GitHub Pages portfolio website, career readiness documents, and my AI-assisted software project.
