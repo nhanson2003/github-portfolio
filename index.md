@@ -17,11 +17,11 @@
 
 COSC 4272 Senior Assessment Capstone Portfolio repository. This repository hosts my GitHub Pages portfolio website, career readiness documents, and my AI-assisted software project.
 
-**[Repositort](https://github.com/nhanson2003/github-portfolio/tree/main)**
-
 ---
 
 ## Repository Structure
+
+**[Repository](https://github.com/nhanson2003/github-portfolio/tree/main)**
 
 * **`/portfolio`** – Source files for my GitHub Pages portfolio website.
 * **`/ai-project`** – Source code, requirements, and documentation for my AI-Assisted Software Application.
