@@ -1,25 +1,23 @@
 
-<div class="custom-profile-banner" style="display: flex; align-items: center; gap: 25px; background-color: #ffffff; padding: 25px; border: 1px solid #d0d7de; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.06); margin-bottom: 24px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 24px; background: #fff; padding: 20px; border: 1px solid #d0d7de; border-radius: 8px; margin-bottom: 24px;">
+  
+  <div style="width: 140px; height: 140px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
+    <img src="assets/headshot.JPG" alt="Nicholas Hanson" style="width: 100%; height: 100%; object-fit: cover; object-position: center 20%; transform: scale(1.15);">
+  </div>
 
-  <img src="assets/headshot.JPG" alt="Profile Headshot" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; flex-shrink: 0; transform: scale(1.35)">
-
-  <div style="flex: 1; min-width: 220px;">
-    <h1 style="margin: 0 0 6px 0; font-size: 28px; color: #1e293b; border: none; padding: 0;">Nicholas Hanson</h1>
-    <p style="margin: 0 0 6px 0; font-size: 16px; font-weight: 600; color: #159957;">
-      Process Automation & Intelligent Systems
-    </p>
-    <p style="margin: 0; font-size: 15px; color: #475569; line-height: 1.5;">
-      B.S. Computer Science & Mathematics | B.S. Electrical Engineering
-    </p>
+  <div>
+    <h1 style="margin: 0 0 6px; font-size: 28px; border: none; padding: 0;">Nicholas Hanson</h1>
+    <p style="margin: 0 0 6px; font-weight: 600; color: #159957;">Process Automation & Intelligent Systems</p>
+    <p style="margin: 0; color: #475569;">B.S. Computer Science & Mathematics | B.S. Electrical Engineering</p>
   </div>
 
 </div>
 
 # Professional Portfolio & AI Software Project
 
-COSC 4272 Senior Seminar Capstone Portfolio repository. This repository hosts my GitHub Pages portfolio website, career readiness documents, and my AI-assisted software project.
+COSC 4272 Senior Assessment Capstone Portfolio repository. This repository hosts my GitHub Pages portfolio website, career readiness documents, and my AI-assisted software project.
 
-🌐 **Live Portfolio:** https://nhanson2003.github.io/github-portfolio
+🌐 **Live Portfolio:** [Follow Me](https://nhanson2003.github.io/github-portfolio)
 
 ---
 
