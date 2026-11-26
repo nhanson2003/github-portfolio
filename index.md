@@ -5,7 +5,7 @@
 
   <!-- Right: Name, Title & Education -->
   <div style="flex: 1; min-width: 220px;">
-    <h1 style="margin: 0 0 6px 0; font-size: 28px; color: #1e293b;">Your Full Name</h1>
+    <h1 style="margin: 0 0 6px 0; font-size: 28px; color: #1e293b;">Nicholas Hanson</h1>
     <p style="margin: 0 0 6px 0; font-size: 16px; font-weight: 600; color: #159957;">
       Process Automation & Intelligent Systems
     </p>
