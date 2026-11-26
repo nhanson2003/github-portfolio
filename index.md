@@ -2,7 +2,7 @@
 <div style="display: flex; align-items: center; gap: 24px; background: #fff; padding: 20px; border: 1px solid #d0d7de; border-radius: 8px; margin-bottom: 24px;">
   
   <div style="width: 140px; height: 140px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
-    <img src="assets/headshot.JPG" alt="Nicholas Hanson" style="width: 100%; height: 100%; object-fit: cover; object-position: center 20%; transform: scale(1.25) translate(-5px, 15px);">
+    <img src="assets/headshot.JPG" alt="Nicholas Hanson" style="width: 100%; height: 100%; object-fit: cover; object-position: center 20%; transform: scale(1.25) translate(-20px, 50px);">
   </div>
 
   <div>
