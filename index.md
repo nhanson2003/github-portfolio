@@ -18,7 +18,7 @@
 
 <div class="custom-profile-banner" style="display: flex; align-items: center; gap: 25px; background-color: #ffffff; padding: 25px; border: 1px solid #d0d7de; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.06); margin-bottom: 24px; flex-wrap: wrap;">
 
-  <img src="assets/headshot.JPG" alt="Profile Headshot" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+  <img src="assets/headshot.JPG" alt="Profile Headshot" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; flex-shrink: 0; transform: scale(1.15)">
 
   <div style="flex: 1; min-width: 220px;">
     <h1 style="margin: 0 0 6px 0; font-size: 28px; color: #1e293b; border: none; padding: 0;">Nicholas Hanson</h1>
